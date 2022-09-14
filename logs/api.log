@@ -1,0 +1,163 @@
+14-09-2022 21:45:03.277 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-09-2022 21:45:03.278 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-09-2022 21:45:03.278 [Gauge] [DEBUG] Adding specs from D:\Work\MyProjects\specs\example.spec
+14-09-2022 21:45:03.278 [Gauge] [INFO] Initializing steps cache with 1 steps
+14-09-2022 21:45:03.278 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59150
+14-09-2022 21:45:03.279 [Gauge] [DEBUG] Watching directory: D:\Work\MyProjects\specs
+14-09-2022 21:45:03.279 [Gauge] [DEBUG] Found 1 files
+14-09-2022 21:45:03.748 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+14-09-2022 21:45:03.757 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse  messageId:5  libPathResponse:{path:"C:\\Users\\ducph\\AppData\\Roaming\\gauge\\plugins\\java\\0.9.1\\libs"}
+14-09-2022 21:52:04.148 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-09-2022 21:52:04.149 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-09-2022 21:52:04.149 [Gauge] [DEBUG] Adding specs from D:\Work\MyProjects\specs\example.spec
+14-09-2022 21:52:04.149 [Gauge] [INFO] Initializing steps cache with 1 steps
+14-09-2022 21:52:04.149 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59309
+14-09-2022 21:52:04.149 [Gauge] [DEBUG] Watching directory: D:\Work\MyProjects\specs
+14-09-2022 21:52:04.150 [Gauge] [DEBUG] Found 1 files
+14-09-2022 22:06:59.770 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+14-09-2022 22:06:59.770 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+14-09-2022 22:06:59.782 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+14-09-2022 22:06:59.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+14-09-2022 22:06:59.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+14-09-2022 22:06:59.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+14-09-2022 22:55:00.881 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+14-09-2022 22:55:00.883 [Gauge] [INFO] Initializing specs cache with 1 specs
+14-09-2022 22:55:00.883 [Gauge] [DEBUG] Adding specs from D:\Work\MyProjects\specs\example.spec
+14-09-2022 22:55:00.883 [Gauge] [INFO] Initializing steps cache with 1 steps
+14-09-2022 22:55:00.884 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60407
+14-09-2022 22:55:00.885 [Gauge] [DEBUG] Watching directory: D:\Work\MyProjects\specs
+14-09-2022 22:55:00.885 [Gauge] [DEBUG] Found 1 files
+14-09-2022 22:56:58.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+14-09-2022 22:56:58.462 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+14-09-2022 22:56:58.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+14-09-2022 22:56:58.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+14-09-2022 22:56:58.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+14-09-2022 22:56:58.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+14-09-2022 23:01:40.691 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:01:40.700 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:02:21.208 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:02:21.211 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:03:23.874 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:03:23.876 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:05:25.692 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:05:25.702 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:07:48.815 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the  homepage"}
+14-09-2022 23:07:48.816 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the  homepage"  parameterizedStepValue:"Open the  homepage"}}
+14-09-2022 23:07:49.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <> homepage"}
+14-09-2022 23:07:49.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <> homepage"  parameters:""}}
+14-09-2022 23:07:50.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <W> homepage"}
+14-09-2022 23:07:50.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <W> homepage"  parameters:"W"}}
+14-09-2022 23:07:51.819 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <Web> homepage"}
+14-09-2022 23:07:51.819 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <Web> homepage"  parameters:"Web"}}
+14-09-2022 23:07:52.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <Website> homepage"}
+14-09-2022 23:07:52.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <Website> homepage"  parameters:"Website"}}
+14-09-2022 23:07:56.748 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <urlWebsite> homepage"}
+14-09-2022 23:07:56.748 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <urlWebsite> homepage"  parameters:"urlWebsite"}}
+14-09-2022 23:07:59.799 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <urlOFWebsite> homepage"}
+14-09-2022 23:07:59.799 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <urlOFWebsite> homepage"  parameters:"urlOFWebsite"}}
+14-09-2022 23:08:00.809 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the <urlOfWebsite> homepage"}
+14-09-2022 23:08:00.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <urlOfWebsite> homepage"  parameters:"urlOfWebsite"}}
+14-09-2022 23:10:06.437 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:10:06.438 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:11:08.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"o"}
+14-09-2022 23:11:08.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"o"  parameterizedStepValue:"o"}}
+14-09-2022 23:11:08.864 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:11:08.865 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-09-2022 23:11:08.867 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:11:08.867 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:11:08.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:" Open browser"}
+14-09-2022 23:11:08.908 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open browser"  parameterizedStepValue:"Open browser"}}
+14-09-2022 23:11:09.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"op"}
+14-09-2022 23:11:09.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"op"  parameterizedStepValue:"op"}}
+14-09-2022 23:11:09.131 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"ope"}
+14-09-2022 23:11:09.131 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"ope"  parameterizedStepValue:"ope"}}
+14-09-2022 23:11:10.019 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"urlOfWebsite\" homepage"}
+14-09-2022 23:11:10.019 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <urlOfWebsite> homepage"  parameters:"urlOfWebsite"}}
+14-09-2022 23:11:11.804 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"g\" homepage"}
+14-09-2022 23:11:11.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <g> homepage"  parameters:"g"}}
+14-09-2022 23:11:12.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"go\" homepage"}
+14-09-2022 23:11:12.023 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <go> homepage"  parameters:"go"}}
+14-09-2022 23:11:12.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"gô\" homepage"}
+14-09-2022 23:11:12.609 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <gô> homepage"  parameters:"gô"}}
+14-09-2022 23:11:12.998 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"goo\" homepage"}
+14-09-2022 23:11:12.998 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <goo> homepage"  parameters:"goo"}}
+14-09-2022 23:11:13.156 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"goog\" homepage"}
+14-09-2022 23:11:13.156 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <goog> homepage"  parameters:"goog"}}
+14-09-2022 23:11:13.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"googl\" homepage"}
+14-09-2022 23:11:13.267 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <googl> homepage"  parameters:"googl"}}
+14-09-2022 23:11:13.370 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"google\" homepage"}
+14-09-2022 23:11:13.371 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <google> homepage"  parameters:"google"}}
+14-09-2022 23:11:14.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"google.\" homepage"}
+14-09-2022 23:11:14.152 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <google.> homepage"  parameters:"google."}}
+14-09-2022 23:11:14.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"google.c\" homepage"}
+14-09-2022 23:11:14.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <google.c> homepage"  parameters:"google.c"}}
+14-09-2022 23:11:14.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"google.co\" homepage"}
+14-09-2022 23:11:14.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <google.co> homepage"  parameters:"google.co"}}
+14-09-2022 23:11:14.715 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"google.com\" homepage"}
+14-09-2022 23:11:14.715 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <google.com> homepage"  parameters:"google.com"}}
+14-09-2022 23:11:27.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"https://www.google.com.vn/\" homepage"}
+14-09-2022 23:11:27.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:11:27.976 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"https://www.google.com.vn/\" homepage"}
+14-09-2022 23:11:27.976 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:11:49.091 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:11:49.098 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:11:53.015 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:11:53.020 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:12:18.528 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:12:18.533 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:12:22.876 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:12:22.876 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+14-09-2022 23:12:22.877 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:12:22.877 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:12:41.428 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:12:41.438 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:13:03.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"*Open the \"https://www.google.com.vn/\" homepage"}
+14-09-2022 23:13:03.187 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"*Open the {} homepage"  parameterizedStepValue:"*Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:13:15.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open browser"}
+14-09-2022 23:13:15.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open browser"  parameterizedStepValue:"Open browser"}}
+14-09-2022 23:13:23.340 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:13:23.342 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:21.649 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:21.655 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:42.513 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:42.518 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:42.697 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:42.703 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:14:54.862 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"O"}
+14-09-2022 23:14:54.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"O"  parameterizedStepValue:"O"}}
+14-09-2022 23:14:54.871 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:14:54.871 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:14:54.872 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:14:54.872 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:14:55.470 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Op"}
+14-09-2022 23:14:55.470 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Op"  parameterizedStepValue:"Op"}}
+14-09-2022 23:14:55.619 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ope"}
+14-09-2022 23:14:55.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ope"  parameterizedStepValue:"Ope"}}
+14-09-2022 23:14:55.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Opem"}
+14-09-2022 23:14:55.824 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Opem"  parameterizedStepValue:"Opem"}}
+14-09-2022 23:14:56.735 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:14:56.735 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:14:56.736 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:14:57.686 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open"}
+14-09-2022 23:14:57.686 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open"  parameterizedStepValue:"Open"}}
+14-09-2022 23:14:57.691 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+14-09-2022 23:14:57.691 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{allSteps:{stepValue:"Open the {} homepage"  parameterizedStepValue:"Open the <https://www.google.com.vn/> homepage"  parameters:"https://www.google.com.vn/"}}
+14-09-2022 23:14:57.691 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+14-09-2022 23:14:57.691 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+14-09-2022 23:15:01.913 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the \"*Open the \"https://www.google.com.vn/\" homepage\" homepage"}
+14-09-2022 23:15:01.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the {}https://www.google.com.vn/{} homepage"  parameterizedStepValue:"Open the <*Open the >https://www.google.com.vn/< homepage> homepage"  parameters:"*Open the "  parameters:" homepage"}}
+14-09-2022 23:15:26.515 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:15:26.516 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\example.spec
+14-09-2022 23:32:17.307 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:32:17.313 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:32:17.315 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:32:54.266 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:32:54.267 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:33:04.099 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:33:04.108 [Gauge] [DEBUG] Spec file added / modified: D:\Work\MyProjects\specs\sample.spec
+14-09-2022 23:50:13.976 [Gauge] [DEBUG] Spec file removed: D:\Work\MyProjects\specs\example.spec
