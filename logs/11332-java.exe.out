@@ -1,0 +1,31 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 552milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 552"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 51774"}
+{"logLevel":"info","message":"Listening on port:51774"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.click' and 'org.example.StepImplementation.click'"}
+{"logLevel":"debug","message":"Found Click on button have {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.openBrowser' and 'org.example.StepImplementation.openBrowser'"}
+{"logLevel":"debug","message":"Found Open the {} homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.inputText' and 'org.example.StepImplementation.inputText'"}
+{"logLevel":"debug","message":"Found Input {} into textbox have {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tClick on button have {} : public void click(By xpath)"}
+{"logLevel":"debug","message":"\tOpen the {} homepage : public void openBrowser(String urlOfWebsite)"}
+{"logLevel":"debug","message":"\tInput {} into textbox have {} : public void inputText(String text, By xpath)"}
+{"logLevel":"debug","message":"Executing 'Open the {} homepage' using 'class org.example.StepImplementation.openBrowser"}
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 14644
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 15, 2022 10:08:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Input {} into textbox have {}' using 'class org.example.StepImplementation.inputText"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

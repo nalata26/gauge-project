@@ -1,0 +1,40 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 583milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 583"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 61385"}
+{"logLevel":"info","message":"Listening on port:61385"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.click' and 'org.example.StepImplementation.click'"}
+{"logLevel":"debug","message":"Found Click on button have {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.inputText' and 'org.example.StepImplementation.inputText'"}
+{"logLevel":"debug","message":"Found Input {} into textbox have {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.sleep' and 'org.example.StepImplementation.sleep'"}
+{"logLevel":"debug","message":"Found Sleep 5s in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tClick on button have {} : public void click(String xpath)"}
+{"logLevel":"debug","message":"\tSleep 5s : public void sleep() throws InterruptedException"}
+{"logLevel":"debug","message":"\tInput {} into textbox have {} : public void inputText(String text, String xpath)"}
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 42826
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 18, 2022 9:55:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Start Test
+BeforeSpec   DDDDDDDDDDDDDDDDDDDDDDDDDDD
+{"logLevel":"debug","message":"Executing 'Input {} into textbox have {}' using 'class org.example.StepImplementation.inputText"}
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 33217
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 18, 2022 9:55:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+AfterSpec   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Stop Test 22222222222222222222222222222222222222
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

@@ -1,0 +1,20 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 584milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 584"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 65020"}
+{"logLevel":"info","message":"Listening on port:65020"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.inputText' and 'org.example.StepImplementation.inputText'"}
+{"logLevel":"debug","message":"Found Input {} into textbox have xpath in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.sleep' and 'org.example.StepImplementation.sleep'"}
+{"logLevel":"debug","message":"Found Sleep 5s in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSleep 5s : public void sleep() throws InterruptedException"}
+{"logLevel":"debug","message":"\tInput {} into textbox have xpath : public void inputText(String text)"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
